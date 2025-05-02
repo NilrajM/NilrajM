@@ -6,7 +6,17 @@
 
 ## 🚀 About Me
 
-I'm a passionate developer who loves to build things and solve problems. My journey in tech is driven by curiosity and a desire to create meaningful solutions.
+Just wrapped up my Master's in Software Engineering Systems from Northeastern University—and no, I haven't slept since the data structures course.
+
+I'm a full-stack developer with a front-row seat to the evolving tech world, armed with experience in HTML, CSS, JavaScript, Angular, Java, and Oracle SQL. I've also played my fair share in the Agile sandbox and know my way around API integrations and designing clean, client-friendly frontends.
+
+My coursework covered everything from UI/UX design to enterprise software design, with pit stops at testing, design patterns, databases, networking, and more. Basically, if it involves code, structure, or making users happy, I'm into it.
+
+I'm especially excited about the intersection of cloud computing and software engineering—where flexibility meets scalability—and how we can build smarter, more efficient software to tackle real-world challenges.
+
+When I'm not debugging or sketching out UI flows, I'm usually geeking out over clean code, clever design patterns, or finding that one SQL query that does exactly what I need.
+
+Always open to collaborating on projects that make a difference. Let's build something cool together.
 
 ## 🛠️ Tech Stack
 
@@ -28,24 +38,53 @@ I'm a passionate developer who loves to build things and solve problems. My jour
 
 ## 🌱 Currently Learning
 
-- Networking Concepts
-- Redux and State Management
-- System Design
+<div align="center">
+  <h3>🚀 Expanding My Tech Horizons</h3>
+  
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin: 20px 0;">
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+    <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  </div>
+
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; margin: 20px 0;">
+    <div style="background: #1a1a1a; padding: 15px; border-radius: 10px; text-align: left;">
+      <h4>🛠️ Container Orchestration</h4>
+      <p>Mastering Kubernetes & Docker for scalable deployment</p>
+    </div>
+    <div style="background: #1a1a1a; padding: 15px; border-radius: 10px; text-align: left;">
+      <h4>⚡ Full-Stack Performance</h4>
+      <p>Exploring React Server Components & Next.js 14</p>
+    </div>
+    <div style="background: #1a1a1a; padding: 15px; border-radius: 10px; text-align: left;">
+      <h4>🧠 AI Integration</h4>
+      <p>Building LLM-powered apps with LangChain & OpenAI</p>
+    </div>
+    <div style="background: #1a1a1a; padding: 15px; border-radius: 10px; text-align: left;">
+      <h4>🏗️ System Architecture</h4>
+      <p>Deep diving into scalable system design patterns</p>
+    </div>
+  </div>
+</div>
 
 ## 📫 How to Reach Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+  <a href="https://www.linkedin.com/in/nilraj-mayekar-46a6b7179/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:mayekarneelraj@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
 
 ## ⚡ Fun Fact
 
-I can solve a Rubik's cube in under 2 minutes! 🎲
+Once upon a time, I was a civil engineer researching how to make wastewater treatment plants more efficient—so yes, I went from purifying water to writing clean, efficient, and well-tested code. Now I'm in software engineering, where I still care deeply about things running smoothly... just without the sludge.
+
+When I'm not buried in code or debugging a stubborn test case, you'll find me strumming my guitar and writing songs that never leave my room—chart-toppers in a world where I'm the only listener.
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=NilrajM&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
